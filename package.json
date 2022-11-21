@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndaChain/server_cyclone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndaChain/server_cyclone/issues"
+  },
+  "homepage": "https://github.com/AndaChain/server_cyclone#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.2"
+  }
+}
